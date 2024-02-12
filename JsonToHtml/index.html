@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>JSON to HTML Converter</title>
+    <link href="./scripts/css/basic.css" rel="stylesheet" type="text/css" />
+    <script src="./scripts/js/JsontToHtml.js"></script>
+</head>
+
+<body>
+    <h1> JSON to HTML Converter</h1>
+    <input type="file" id="jsonInput" accept=".json" onchange="handleFileSelect(event)">
+    <br>
+    <br>
+
+    <textarea id="htmlInput" rows="10" cols="50" placeholder="Ingresa tus objetos JSON aquí (separados por comas)"></textarea><br>
+
+    <button onclick="convertJsonToHtml()"> Convertir a HTML</button><br><br>
+    <div id="htmlOutput">
+    </div>
+</body>
+
+</html>

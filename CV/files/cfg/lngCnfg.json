@@ -1,0 +1,56 @@
+{
+  "es": {
+    "labels": {
+      "curriculum_title": "Currículum Vitae: %nombre%",
+      "professional_objective": "Objetivo Profesional",
+      "skills": "Habilidades",
+      "language_skills": "Idiomas",
+      "education": "Educación",
+      "certifications": "Certificaciones",
+      "company": "Empresa",
+      "position": "Puesto",
+      "dates": "Fechas",
+      "responsibilities": "Responsabilidades",
+      "achievements": "Logros",
+      "institution": "Institución",
+      "title": "Título",
+      "certification_dates": "Fechas de Certificación",
+      "rights_reserved": "Derechos reservados",
+      "contact_email": "Contacto",
+	  "experience": "Experiencia Laboral",
+	  "other_experience": "Otra Experiencia laboral"
+    },
+    "ratings": {
+      "native": "Nativo",
+      "advanced": "Avanzado",
+      "basic": "Básico"
+    }
+  },
+  "en": {
+    "labels": {
+      "curriculum_title": "Curriculum Vitae: %nombre%",
+      "professional_objective": "Professional Objective",
+      "skills": "Skills",
+      "language_skills": "Language Skills",
+      "education": "Education",
+      "certifications": "Certifications",
+      "company": "Company",
+      "position": "Position",
+      "dates": "Dates",
+      "responsibilities": "Responsibilities",
+      "achievements": "Achievements",
+      "institution": "Institution",
+      "title": "Title",
+      "certification_dates": "Certification Dates",
+      "rights_reserved": "All Rights Reserved",
+      "contact_email": "Contact Email",
+	  "experience": "Experience",
+	  "other_experience": "Other Experience"
+    },
+    "ratings": {
+      "native": "Native",
+      "advanced": "Advanced",
+      "basic": "Basic"
+    }
+  }
+}

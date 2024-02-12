@@ -1,0 +1,98 @@
+
+    body {
+      background-color: #f8f9fa;
+    }
+
+    .cv-container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .cv-container h1 {
+      color: #007bff;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .cv-section {
+      margin-bottom: 20px;
+    }
+
+    .cv-section h3 {
+      color: #007bff;
+      font-weight: bold;
+    }
+
+    .cv-section .btn-add {
+      background-color: #007bff;
+      color: #fff;
+      border-color: #007bff;
+    }
+
+    .cv-section .cv-card {
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      margin-bottom: 10px;
+    }
+
+    .cv-section .cv-card-header {
+      background-color: #007bff;
+      color: #fff;
+      padding: 10px;
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px;
+    }
+
+    .cv-section .cv-card-body {
+      padding: 10px;
+    }
+
+    .cv-section .cv-card-body .form-group {
+      margin-bottom: 10px;
+    }
+
+    .cv-section .cv-card-body .form-label {
+      font-weight: bold;
+    }
+
+    .cv-section .cv-card-body .btn-remove {
+      background-color: #dc3545;
+      color: #fff;
+      border-color: #dc3545;
+    }
+
+    .cv-section .cv-card-body .btn-remove:hover {
+      background-color: #c82333;
+      border-color: #bd2130;
+    }
+
+    .cv-section .cv-card-body .btn-remove:focus {
+      box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.5);
+    }
+
+    .cv-section .cv-card-body .btn-add {
+      background-color: #28a745;
+      color: #fff;
+      border-color: #28a745;
+    }
+
+    .cv-section .cv-card-body .btn-add:hover {
+      background-color: #218838;
+      border-color: #1e7e34;
+    }
+
+    .cv-section .cv-card-body .btn-add:focus {
+      box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.5);
+    }
+
+    .cv-section .cv-card-body:last-child .btn-remove {
+      display: none;
+    }
+
+    .cv-section .cv-card-body:last-child .btn-add {
+      margin-top: 10px;
+    }
